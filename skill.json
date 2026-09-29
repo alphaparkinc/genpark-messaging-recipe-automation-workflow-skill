@@ -1,0 +1,20 @@
+{
+  "name": "genpark-messaging-recipe-automation-workflow-skill",
+  "version": "1.0.0",
+  "description": "Declarative recipe automation engine for messaging personal agents parsing trigger-filter-action pipelines",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "recipe-automation",
+    "workflow-engine",
+    "event-trigger",
+    "rule-dsl",
+    "webhook-scheduler",
+    "messaging-agent",
+    "personal-automation",
+    "declarative-rules",
+    "agent-skills",
+    "python-standard-library",
+    "mcp"
+  ]
+}
